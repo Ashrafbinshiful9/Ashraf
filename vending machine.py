@@ -62,3 +62,6 @@ class VendingMachine:
 if __name__ == "__main__":
     vending_machine = VendingMachine()
     vending_machine.run()
+
+    #explaining
+    print("over")
